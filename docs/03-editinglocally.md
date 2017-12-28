@@ -6,9 +6,13 @@ In this step we will try to start editing your Git repository from your local ma
 
 It is not often that I recommend a MS product but the Visual Studio Code is really good and fast enough and does well the job.
 
-Install Microsoft Visual Studio Code in your computer.
+Install Microsoft Visual Studio Code in your computer. You can use choco or install it directly from https://code.visualstudio.com/.
 
-After instalation, open a MINGW terminal and run `code .` just to check that it works well and opens the editor.
+```bash
+C:\windows\system32>choco install -y visualstudiocode
+```
+
+After instalation, open a Git Bash terminal and run `code .` just to check that it works well and opens the editor.
 
 ## Configuring your Git
 
@@ -32,7 +36,7 @@ git clone <YOUR LINK HERE>
 
 If you want to clone this guide do:
 ```
-git clone git@github.com:eargollo/training_steps.git
+git clone https://github.com/eargollo/training_steps.git
 ```
 
 ## Editing your repo
