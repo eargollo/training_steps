@@ -25,3 +25,7 @@ Now download the Ubuntu disk image to install in your new machine. Go to http://
 Once your download is completed, you can add the Ubuntu ISO to the virtual CD drive of your VM. Just start your VM and VirtualBox will ask you for the ISO.
 
 Go through the installation process and play a bit with Ubuntu.
+
+## Install Guest Additions
+
+Google around and install Guest Additions to your VirtualBox Ubuntu VM to have seamless integration with Windows.
