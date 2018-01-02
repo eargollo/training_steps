@@ -14,8 +14,6 @@ Install VirtualBox at your computer.
 
 Run VirtualBox and create a new VM. Choose the name you prefer. I named it "Ubuntu VM". Set it to Type Linux and Version Ubuntu (64 bit).
 
-![Create VM](./vboxubuntu01.PNG "Create Ubuntu VM")
-
 Depending on the amount of memory you have available you can give the VM 1, 2 or 4GB. Don't worry too much about it since you can adjust the memory anytime. I will give it 2GB.
 
 ![Memory](./vboxubuntu02.PNG "Create Ubuntu VM: Memory")
